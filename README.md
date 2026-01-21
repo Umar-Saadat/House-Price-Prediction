@@ -34,6 +34,6 @@ Multiple Linear Regression
 
 Interactive Streamlit UI
 
-Real-time price prediction
+Real-time house price prediction
 
-Simple and clean user input form
+User-friendly frontend
