@@ -1,3 +1,7 @@
+House Price Prediction
+📌 Algorithm: Linear Regression
+🖼️ Image: house.png
+
 📖 Description
 
 This project predicts house prices based on multiple features such as:
