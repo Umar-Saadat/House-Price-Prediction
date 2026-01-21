@@ -1,6 +1,6 @@
 House Price Prediction
 📌 Algorithm: Linear Regression
-🖼️ Image: house.png
+🖼️ Image: House.PNG
 
 📖 Description
 
